@@ -1,0 +1,8 @@
+
+.venv/
+.qmoi/
+__pycache__/
+*.pyc
+.env
+.env.*
+.DS_Store
