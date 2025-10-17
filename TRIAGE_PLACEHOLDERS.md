@@ -1,0 +1,54 @@
+# TRIAGE_PLACEHOLDERS
+\nTotal placeholder matches: 6314\n
+Top affected files (excerpt):
+
+    257 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/@types/node/test.d.ts
+    257 ./qmoi-enhanced/mobile/node_modules/@types/node/test.d.ts
+     95 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/@jridgewell/trace-mapping/README.md
+     95 ./qmoi-enhanced/qmoi-enhanced/dashboard/node_modules/@jridgewell/trace-mapping/README.md
+     95 ./qmoi-enhanced/mobile/node_modules/@jridgewell/trace-mapping/README.md
+     58 ./qmoi-enhanced/qmoi-enhanced/dashboard/node_modules/react-dom/umd/react-dom.development.js
+     58 ./qmoi-enhanced/qmoi-enhanced/dashboard/node_modules/react-dom/cjs/react-dom.development.js
+     58 ./qmoi-enhanced/dashboard/node_modules/react-dom/umd/react-dom.development.js
+     58 ./qmoi-enhanced/dashboard/node_modules/react-dom/cjs/react-dom.development.js
+     55 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/@jridgewell/sourcemap-codec/README.md
+     55 ./qmoi-enhanced/qmoi-enhanced/dashboard/node_modules/@jridgewell/sourcemap-codec/README.md
+     55 ./qmoi-enhanced/mobile/node_modules/@jridgewell/sourcemap-codec/README.md
+     52 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/terser/tools/domprops.js
+     52 ./qmoi-enhanced/mobile/node_modules/terser/tools/domprops.js
+     48 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/type-detect/type-detect.js
+     48 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/type-detect/index.js
+     48 ./qmoi-enhanced/mobile/node_modules/type-detect/type-detect.js
+     48 ./qmoi-enhanced/mobile/node_modules/type-detect/index.js
+     45 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/react-native/jest/setup.js
+     45 ./qmoi-enhanced/mobile/node_modules/react-native/jest/setup.js
+     43 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/@sinonjs/fake-timers/README.md
+     43 ./qmoi-enhanced/mobile/node_modules/@sinonjs/fake-timers/README.md
+     41 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/undici-types/mock-interceptor.d.ts
+     41 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/metro-file-map/src/plugins/MockPlugin.js
+     41 ./qmoi-enhanced/mobile/node_modules/undici-types/mock-interceptor.d.ts
+     41 ./qmoi-enhanced/mobile/node_modules/metro-file-map/src/plugins/MockPlugin.js
+     40 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/@jridgewell/gen-mapping/README.md
+     40 ./qmoi-enhanced/qmoi-enhanced/dashboard/node_modules/react-dom/umd/react-dom-server-legacy.browser.development.js
+     40 ./qmoi-enhanced/qmoi-enhanced/dashboard/node_modules/react-dom/cjs/react-dom-server-legacy.node.development.js
+     40 ./qmoi-enhanced/qmoi-enhanced/dashboard/node_modules/react-dom/cjs/react-dom-server-legacy.browser.development.js
+     40 ./qmoi-enhanced/qmoi-enhanced/dashboard/node_modules/@jridgewell/gen-mapping/README.md
+     40 ./qmoi-enhanced/mobile/node_modules/@jridgewell/gen-mapping/README.md
+     40 ./qmoi-enhanced/dashboard/node_modules/react-dom/umd/react-dom-server-legacy.browser.development.js
+     40 ./qmoi-enhanced/dashboard/node_modules/react-dom/cjs/react-dom-server-legacy.node.development.js
+     40 ./qmoi-enhanced/dashboard/node_modules/react-dom/cjs/react-dom-server-legacy.browser.development.js
+     39 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/undici-types/mock-call-history.d.ts
+     39 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/react-native/Libraries/Renderer/implementations/ReactNativeRenderer-dev.js
+     39 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js
+     39 ./qmoi-enhanced/qmoi-enhanced/dashboard/node_modules/react-dom/umd/react-dom-server.browser.development.js
+     39 ./qmoi-enhanced/qmoi-enhanced/dashboard/node_modules/react-dom/cjs/react-dom-server.node.development.js
+     39 ./qmoi-enhanced/qmoi-enhanced/dashboard/node_modules/react-dom/cjs/react-dom-server.browser.development.js
+     39 ./qmoi-enhanced/mobile/node_modules/undici-types/mock-call-history.d.ts
+     39 ./qmoi-enhanced/mobile/node_modules/react-native/Libraries/Renderer/implementations/ReactNativeRenderer-dev.js
+     39 ./qmoi-enhanced/mobile/node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js
+     39 ./qmoi-enhanced/dashboard/node_modules/react-dom/umd/react-dom-server.browser.development.js
+     39 ./qmoi-enhanced/dashboard/node_modules/react-dom/cjs/react-dom-server.node.development.js
+     39 ./qmoi-enhanced/dashboard/node_modules/react-dom/cjs/react-dom-server.browser.development.js
+     37 ./qmoi-enhanced/scripts/qmoi_master_website_automation.js
+     37 ./qmoi-enhanced/qmoi-enhanced/scripts/qmoi_master_website_automation.js
+     34 ./qmoi-enhanced/qmoi-enhanced/mobile/node_modules/source-map-support/README.md
