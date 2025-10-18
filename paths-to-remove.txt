@@ -1,0 +1,6 @@
+.qmoi/backups/backup_20251017T100344.tar.gz
+.venv/
+# optional: if you later identify other large files, add them below (one per line)
+# examples:
+# .qmoi/runner_docs.json
+# docs/converted/qmoi-enhanced_scripts_qmoi-dashboard-enhance_py.md
