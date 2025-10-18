@@ -1,0 +1,2 @@
+[BINARY FILE: QMOI-ENHANCEMENT-SUMMARY.md]
+Stored copy: docs/converted-binary/QMOI-ENHANCEMENT-SUMMARY.md

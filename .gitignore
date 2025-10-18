@@ -9,3 +9,4 @@ __pycache__/
 .qmoi/backups/
 .qmoi/backups/
 **/node_modules/
+docs/converted-binary/
