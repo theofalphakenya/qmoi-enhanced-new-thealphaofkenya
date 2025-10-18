@@ -4,3 +4,5 @@
 # examples:
 # .qmoi/runner_docs.json
 # docs/converted/qmoi-enhanced_scripts_qmoi-dashboard-enhance_py.md
+docs/converted-binary/MANIFEST.txt
+.qmoi/runner_docs.json
